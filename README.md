@@ -3,7 +3,7 @@
 
 ![Paulo Marçal GitHub stats](https://github-readme-stats.vercel.app/api?username=pjn821&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Paulo Marçal](https://github-readme-stats.vercel.app/api/top-langs/?username=pjn821&hide_progress=true)
 
 ## Ambiente de desenvolvimento<br/>
 
