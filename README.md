@@ -1,8 +1,8 @@
 ### Óla! Eu sou Paulo Marçal👋
-[![Youtube](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pjn_21/?next=%2F)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pjn_21/?next=%2F)
 
 ![Paulo Marçal GitHub stats](https://github-readme-stats.vercel.app/api?username=pjn821&show_icons=true&theme=dracula)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 ## Ambiente de desenvolvimento<br/>
 
 <div style=" display: incline_block"><br/>
